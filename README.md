@@ -24,7 +24,7 @@
 
   <br>
 
-  *[th source](http://ziutek.github.io/web_bench/)
+  *[the source](http://ziutek.github.io/web_bench/)
 
 - Switched from Python to Go
   - [thought](https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/)
