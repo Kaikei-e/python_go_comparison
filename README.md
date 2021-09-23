@@ -4,10 +4,10 @@
 - [General benchmark](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/go-python3.html)
 
 - [Collatz数列のベンチマーク](https://rheotommy.hatenablog.com/entry/2020/07/18/205343)
-  - 10~25x faster
+  - Go is 10~25x faster
 
 - APIレスポンス
-  - Go 4x faster [link](https://djangostars.com/blog/my-story-with-golang/)
+  - Go is 4x faster [link](https://djangostars.com/blog/my-story-with-golang/)
 
   <br>
 
@@ -18,7 +18,7 @@
 
   <br>
 
-  - web framework benchmark 1.5x~11x faster
+  - web framework benchmark : Go is 1.5x~11x faster
 
   <img src="./imgs/benchmark2.jpeg" width=70%>
 
@@ -28,3 +28,6 @@
 
 - Switched from Python to Go
   - [thought](https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/)
+
+
+
